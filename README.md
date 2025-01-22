@@ -16,3 +16,4 @@ Frontend: React.js .
 Backend: Node.js .
 Why Build This?
 It’s practical, fun, and a great way to learn user authentication and database management while creating something useful!
+Node.js for front-end , Mangodb for back-end
